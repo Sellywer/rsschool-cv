@@ -1,7 +1,9 @@
 # Adel Zakirova
 
 ## Contacts
-+7-917-434-49-89 | lady.zakirova@yandex.ru
+| phone | email | discord |
+| ------ | :------: | ------: |
+|+7-917-434-49-89 | lady.zakirova@yandex.ru | Adel Zakirova (@Sellywer) |
 
 ## About me
 
