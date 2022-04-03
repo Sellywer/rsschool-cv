@@ -1,5 +1,7 @@
 # Adel Zakirova
 
+![My photo](https://github.com/Sellywer/rsschool-cv/blob/gh-pages/images/photo.png)
+
 ## Contacts
 | phone | email | discord |
 | ------ | :------: | ------: |
